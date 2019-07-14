@@ -122,4 +122,11 @@ img {
             ul {
                 float: none;
             }
+            .img.container {
+                float: none;
+            
+            }
+            .img.container2 {
+                float: none;
+            }
         }
